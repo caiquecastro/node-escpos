@@ -1,0 +1,25 @@
+{
+  "name": "@escpos/serialport",
+  "version": "0.0.0",
+  "description": "serialport adapter for escpos",
+  "keywords": [
+    "escpos"
+  ],
+  "author": "Lsong <song940@gmail.com>",
+  "homepage": "https://github.com/song940/node-escpos",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/node-escpos.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/node-escpos/issues"
+  }
+}
